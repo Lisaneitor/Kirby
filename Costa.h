@@ -12,7 +12,7 @@ private:
     Pulpo* objP;
     vector<Base*> arrPz;
     vector<Base*> arrTenta;
-    vector<Base*> arrP;
+    vector<Base*> arrP;//a
     string nombre_archivo_tenta;
     string nombre_archivo_pulpo;
 public:
